@@ -1,4 +1,4 @@
-# **Machine_Learning Course**
+# **Machine Learning Course**
 ## Description
 This course is based on Fastcampus Academy Machine Learning Course  
 All sources are based on python 
@@ -10,6 +10,8 @@ All sources are based on python
 
 ## Requirements
 Anaconda3, Jupyter Notebook
+\
+
 
 
 
